@@ -1,5 +1,5 @@
 ---
-title: "Biostat776-intro"
+title: "Biostat776-Intro-Luoxi Wang"
 output: html_document
 ---
 
